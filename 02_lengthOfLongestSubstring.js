@@ -16,9 +16,10 @@ var lengthOfLongestSubstring = function(s) {
     		res = res < str.length ? str.length : res;
     	} else {
     		str = str.substr(index + 1) + specStr;
+    		console.log(str);
     	}
     }
-    console.log(res,str)
+    // console.log(res,str)
     return(res);
 };
 
