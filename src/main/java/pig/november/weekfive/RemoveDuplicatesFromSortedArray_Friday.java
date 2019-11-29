@@ -23,10 +23,10 @@ package pig.november.weekfive;
 /**
  * @Author     ：maochang.jiang
  * @Date       ：Created in 2019-11-29 14:49
- * @description ：RemoveDuplicatesFromSortedArray_Saturday
+ * @description ：RemoveDuplicatesFromSortedArray_Friday
  */
 
-public class RemoveDuplicatesFromSortedArray_Saturday {
+public class RemoveDuplicatesFromSortedArray_Friday {
 
     public static void main(String[] args) {
         int[] nums = {1,1,2};

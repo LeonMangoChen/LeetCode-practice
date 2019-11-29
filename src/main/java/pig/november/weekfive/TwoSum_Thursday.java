@@ -25,7 +25,7 @@ import java.util.Map;
  * @Date       ：Created in 2019-11-28 20:28
  * @description：TwoSum
  */
-public class TwoSum_Friday {
+public class TwoSum_Thursday {
     //笨方法，双重for循环
     public static void main(String[] args) {
         int[] nums = {2,11,15,7};
