@@ -1,4 +1,4 @@
-package pig.december.weekfive;
+package pig.november.weekfive;
 
 /**
  * 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
@@ -25,7 +25,7 @@ import java.util.Map;
  * @Date       ：Created in 2019-11-28 20:28
  * @description：TwoSum
  */
-public class Two_Sum_Friday {
+public class TwoSum_Friday {
     //笨方法，双重for循环
     public static void main(String[] args) {
         int[] nums = {2,11,15,7};
