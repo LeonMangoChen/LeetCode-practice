@@ -28,10 +28,13 @@ import java.util.Map;
 public class TwoSum_Thursday {
     //笨方法，双重for循环
     public static void main(String[] args) {
-        int[] nums = {2,11,15,7};
-        int target = 9;
-
-        System.out.println(twoSum_two(nums,target));
+//        int[] nums = {2,11,15,7};
+//        int target = 9;
+//
+//        System.out.println(twoSum_two(nums,target));
+        Integer a1 = 127;
+        Integer a2 = 127;
+        System.out.println(a1 == a2);
     }
 
     //笨方法：双重for循环
